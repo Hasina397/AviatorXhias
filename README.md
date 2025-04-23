@@ -5,7 +5,7 @@ Aviator Predictor v4.0
 🛫 *AviateurXhias* — App faminaniana (predictor) ho an'ny lalao Aviator.
 
 📱 Fampahafantarana
-Ity dia app natao hanampy amin’ny fitadiavam-bola amin'ny alalan'ny prediction amin'ny lalao Aviator. Mora ampiasaina, interface intuitive, ary tsy mitaky login.
+Ity dia app natao hanampy amin’ny fitadiavam-bola amin'ny alalan'ny prediction amin'ny lalao Aviator. Mora ampiasaina, interface intuitive, ary tsy mitaky login.tsy mitaky code de validation
 
 🚀 Toetoetra
 - Prediction automatique
